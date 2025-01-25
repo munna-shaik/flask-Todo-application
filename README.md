@@ -1,5 +1,3 @@
-# flask-introduction
-
 # ToDo List Application
 
 ## Overview
